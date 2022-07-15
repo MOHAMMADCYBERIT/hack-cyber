@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-#-*- coding: utf-8 -*-
-#github.com/MOHAMMADCYBERIT/MOHAMMADCYBERIT
 
 import requests, re , colorama
 colorama.init()
@@ -108,4 +105,4 @@ except:
     pass
 finally:
     print("\033[1;37m")
-    exit()%                                                                                          
+    exit()
