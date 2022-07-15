@@ -109,4 +109,3 @@ except:
 finally:
     print("\033[1;37m")
     exit()%                                                                                          
-┌─[Cyberit@termux]─[~/downloads]
